@@ -23,7 +23,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+![Screenshot 2023-08-03 at 23-48-56 Frontend Mentor Sunnyside agency landing page](https://github.com/davupls/Sunnyside-agency/assets/47851457/24cba476-f944-418d-b7f4-eaacafcdda86)
 
 ### Links
 
