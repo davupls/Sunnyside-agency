@@ -303,6 +303,10 @@ li {
     }
 }
 
+
+
+
+
 /* Desktop Hero */
 @media screen and (min-width: 1024px) {
     .hero {
@@ -325,6 +329,14 @@ li {
         display: flex;
         gap: 47px;
     }
+
+    .nav-ul a {
+        color: #FFF;
+    }
+
+    .nav-ul li:last-child a {
+        color: black; /* or any color you desire */
+      }
 
     .nav-contact {
         background-color: white;
