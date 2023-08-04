@@ -60,6 +60,7 @@ window.addEventListener("resize", function(){
 })
 };
 ```
+With this code I can update the size of any element base on the viewport width.
 
 ### Continued development
 
