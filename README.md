@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/davupls/Sunnyside-agency/tree/main)
-- Live Site URL: (https://github.com/davupls/Sunnyside-agency/tree/main)
+- Solution URL: ([Website Github Repo](https://github.com/davupls/Sunnyside-agency/tree/main))
+- Live Site URL: ([Website Live Link](https://github.com/davupls/Sunnyside-agency/tree/main))
 
 ## My process
 
